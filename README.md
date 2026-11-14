@@ -91,13 +91,15 @@ class Developer {
 
 <div align="center">
 
-| 🚀 Project | 📝 Description 
-|   E-commerce app with real-time cart & payments | `Flutter` `BLoC` `REST-APIS`
-|   Live Streaming Audio & video Rooms | `Flutter` `Bloc` `RTC` `REST-APIS` `WebSocket`
-|   AI Attendance apps for Organizations | `Flutter` `REST-APIS` `Machine Learning`
-|   Medical Apps  | `Flutter` `REST-APIS`
+| 🚀 Project | 📝 Description | 🛠️ Stack |
+|:--|:--|:--|
+| **E-Commerce App** | Online store with real-time cart & secure payments | `Flutter` `BLoC` `REST APIs` |
+| **Live Rooms** | Live streaming audio & video rooms with real-time chat | `Flutter` `BLoC` `WebRTC` `WebSocket` `REST APIs` |
+| **AI Attendance** | Smart attendance system for organizations using face recognition | `Flutter` `REST APIs` `Machine Learning` |
+| **Medical App** | Healthcare app for appointments and patient records | `Flutter` `REST APIs` |
 
 </div>
+
 ---
 
 ## `> connect --init`
