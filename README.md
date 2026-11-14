@@ -11,12 +11,9 @@
 </a>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM%20ACCESS&color=7C3AED&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00F0FF&labelColor=0D1117)
+![Projects](https://img.shields.io/badge/PROJECTS-16+-00F0FF?style=for-the-badge&logo=flutter&labelColor=0D1117)
 ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=starship&color=FF00E5Q&labelColor=0D1117)
 <br/>
-![Projects](https://img.shields.io/badge/PROJECTS-25+-00F0FF?style=for-the-badge&logo=flutter&labelColor=0D1117)
 
 </div>
 
@@ -104,17 +101,6 @@ class Developer {
 | **[Project Three](https://github.com/YOUR_USERNAME/project-three)** | Chat app with end-to-end encryption | `Flutter` `Supabase` `WebSocket` |
 
 </div>
-
----
-
-## `> git log --activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F0FF&line=7C3AED&point=FF00E5&area=true&area_color=7C3AED&hide_border=true" width="100%"/>
-
-</div>
-
 ---
 
 ## `> connect --init`
