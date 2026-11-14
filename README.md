@@ -113,7 +113,7 @@ class Developer {
 
 <br/><br/>
 
-<i>"First, solve the problem. Then, write the widget."</i>
+<i>"First, solve the problem. Then, write the widget E-YEEEAH."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7C3AED,100:00F0FF&height=120&section=footer" width="100%"/>
 
