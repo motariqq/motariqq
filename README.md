@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+Building+beautiful+apps+with+Flutter+%F0%9F%92%99;%3E+One+codebase.+Every+screen.;%3E+Pixel-perfect+UI+%2B+clean+architecture;%3E+Turning+ideas+into+smooth+60fps+experiences" alt="Typing SVG" />
 </a>
 
-![Projects](https://img.shields.io/badge/PROJECTS-25+-00F0FF?style=for-the-badge&logo=flutter&labelColor=0D1117)
+![Projects](https://img.shields.io/badge/PROJECTS-16+-00F0FF?style=for-the-badge&logo=flutter&labelColor=0D1117)
 
 </div>
 
