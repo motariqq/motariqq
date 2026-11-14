@@ -101,18 +101,6 @@ class Developer {
 
 ---
 
-## `> connect --init`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=7C3AED" /></a>
-<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF" /></a>
-<a href="https://pub.dev/publishers/YOUR_PUBLISHER"><img src="https://img.shields.io/badge/pub.dev-0D1117?style=for-the-badge&logo=dart&logoColor=FF00E5" /></a>
-
-<br/><br/>
-
 <i>"First, solve the problem. Then, write the widget E-YEEEAH."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7C3AED,100:00F0FF&height=120&section=footer" width="100%"/>
