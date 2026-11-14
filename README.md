@@ -55,7 +55,6 @@ class Developer {
 **// STATE MANAGEMENT & ARCHITECTURE**
 
 <img src="https://img.shields.io/badge/BLoC-0D1117?style=for-the-badge&logo=flutter&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Riverpod-0D1117?style=for-the-badge&logo=flutter&logoColor=7C3AED" />
 <img src="https://img.shields.io/badge/Provider-0D1117?style=for-the-badge&logo=flutter&logoColor=FF00E5" />
 <img src="https://img.shields.io/badge/Clean_Architecture-0D1117?style=for-the-badge&logo=databricks&logoColor=white" />
 
