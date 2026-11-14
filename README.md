@@ -92,7 +92,6 @@ class Developer {
 <div align="center">
 
 | 🚀 Project | 📝 Description 
-|:--|:--|:--|
 |   E-commerce app with real-time cart & payments | `Flutter` `BLoC` `REST-APIS`
 |   Live Streaming Audio & video Rooms | `Flutter` `Bloc` `RTC` `REST-APIS` `WebSocket`
 |   AI Attendance apps for Organizations | `Flutter` `REST-APIS` `Machine Learning`
