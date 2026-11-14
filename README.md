@@ -93,9 +93,10 @@ class Developer {
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |:--|:--|:--|
-| **[Project One](https://github.com/YOUR_USERNAME/project-one)** | E-commerce app with real-time cart & payments | `Flutter` `BLoC` `Firebase` |
-| **[Project Two](https://github.com/YOUR_USERNAME/project-two)** | Fitness tracker with animated charts | `Flutter` `Riverpod` `SQLite` |
-| **[Project Three](https://github.com/YOUR_USERNAME/project-three)** | Chat app with end-to-end encryption | `Flutter` `Supabase` `WebSocket` |
+|   E-commerce app with real-time cart & payments | `Flutter` `BLoC` `REST-APIS` |
+|   Live Streaming Audio & video Rooms | `Flutter` `Bloc` `RTC` `REST-APIS` `WebSocket` |
+|   AI Attendance apps for Organizations | `Flutter` `REST-APIS` `Machine Learning` |
+|   Medical Apps  | `Flutter` `REST-APIS` |
 
 </div>
 ---
