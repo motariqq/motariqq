@@ -71,21 +71,6 @@ class Developer {
 
 ---
 
-## `> cat stats.log`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=FF00E5" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF00E5&currStreakLabel=00F0FF" />
-
-</div>
-
----
-
 ## `> ls ./featured_projects`
 
 <div align="center">
